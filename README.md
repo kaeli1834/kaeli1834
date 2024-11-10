@@ -35,6 +35,7 @@ Here are a few of my main projects. Feel free to explore and learn more about th
 ## 📫 Get in Touch
 You can reach me on these platforms for discussions, collaborations, or to simply connect!
 
+- [LinkedIn](https://www.linkedin.com/in/karen-asipuela/)
 - [Twitch](https://twitch.tv/Kaeli1834)
 
 Thanks for stopping by my GitHub profile! 🚀
