@@ -23,7 +23,7 @@ Here are some of the technologies and tools I regularly work with:
 ## 🌈 Featured Projects
 Here are a few of my main projects. Feel free to explore and learn more about them!
 
-- 🎮 [Battleship in Unity](https://github.com/karen-asipuela-vinci/bataille-navale) : A 3D Battleship game with multiple camera views and explosion animations.
+- 🎮 [Battleship in Unity] : A 3D Battleship game with multiple camera views and explosion animations.
 
 ---
 
