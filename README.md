@@ -1,10 +1,14 @@
 # 👋 Hello, I'm Karen Asipuela!
-### Computer Science Student | Passionate about Software Development and Technology
+### Software Engineer | Passionate about Software Development and Technology
 
 ---
 
 ## 🌟 About Me
-Hi there! I'm Karen, currently in my final year of a Computer Science degree, specializing in software development. I love exploring new technologies and building practical projects, like web applications and games in Unity. At the moment, I’m working on several academic and personal projects, continuously enhancing my programming skills.
+Hi there! I'm Karen, a fresh graduate in **Computer Science (Information Systems)** with a specialization in software development.  
+I’m passionate about building practical and impactful applications, from **web platforms** to **games in Unity**.  
+During my studies and internships, I’ve worked on projects using **Java, C#, Spring Boot, React, Flutter, and Docker**, and I keep learning every day.  
+
+Currently, I’m looking forward to contributing my skills as a **Java Software Engineer** while continuing to explore new technologies. 🚀  
 
 ---
 
@@ -31,7 +35,10 @@ Here are some of the technologies and tools I regularly work with:
 ## 🌈 Featured Projects
 Here are a few of my main projects. Feel free to explore and learn more about them!
 
-- 🎮 [Battleship in Unity] : A 3D Battleship game with multiple camera views and explosion animations.
+- 🍹 **[Cocktail App](https://cocktail.getkaeli.com)**: A web application that suggests a new cocktail every day, with future features for ingredient-based suggestions.  
+- 🎮 **[Battleship in Unity]**: A 3D Battleship game with multiple camera views, placement system, and explosion animations.
+- 📊 **[WeBloom HR Tool]**: A web platform developed during my internship, focused on employee well-being surveys and dashboards.
+- ☕ **[Coffee Machine App]**: A Java project applying the **State Design Pattern** for machine behavior simulation.
 
 ---
 
@@ -43,6 +50,7 @@ Here are a few of my main projects. Feel free to explore and learn more about th
 ## 📫 Get in Touch
 You can reach me on these platforms for discussions, collaborations, or to simply connect!
 
+- 🌐 [Portfolio](https://portfolio.getkaeli.com)  
 - [LinkedIn](https://www.linkedin.com/in/karen-asipuela/)
 - [Twitch](https://twitch.tv/Kaeli1834)
 
