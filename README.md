@@ -43,7 +43,7 @@ Here are a few of my main projects. Feel free to explore and learn more about th
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karen-asipuela-vinci&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaeli1834&show_icons=true&theme=radical)
 
 ---
 
